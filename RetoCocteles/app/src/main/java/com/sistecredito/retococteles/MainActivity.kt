@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
         val listaProductos = Product(Product)
 
         val adapter = ProductAdapter(this, listaProductos)
