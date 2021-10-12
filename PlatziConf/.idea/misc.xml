@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/activity_splash_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/fragment_home.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/fragment_schedule_detail_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/fragment_shedule.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/fragment_speakers.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/item_schedule.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dalondono/AndroidStudioProjects/PlatziConf/app/src/main/res/layout/item_speaker.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
